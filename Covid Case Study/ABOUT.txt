@@ -1,0 +1,27 @@
+## COVID-19 Case Study using Tableau 
+## Project Overview
+This project presents an interactive Tableau dashboard visualizing key trends and patterns from a comprehensive COVID-19 dataset. Developed as my first major Tableau project, it showcases my ability to transform raw data into actionable insights. A unique feature of this dashboard is the integration of a live data streaming webpage, providing up-to-date information directly within the visualization.
+
+## Features
+* Interactive Dashboards: Explore COVID-19 cases and fatalities across different regions and timeframes.
+* Live Data Integration: Embedded webpage within the dashboard for real-time data streaming and analysis.
+* Geographic Mapping:*Visual representation of data on maps for easy spatial analysis.
+* Filterable Views: Customize data views based on specific criteria (e.g., date range, country/region).
+
+## Technologies Used
+* Tableau Desktop: For data visualization, dashboard design, and live data embedding.
+* Source of Live Data: 'WorldoMeter' for the integrated live data stream.
+
+## Key Skills Demonstrated
+* Data Cleaning & Transformation
+* Dashboard Design & Development
+* Live Data Integration & Embedding
+* Geographic Data Visualization
+* Data Storytelling
+* Data Analysis & Interpretation
+
+## How To Acces
+* https://public.tableau.com/shared/ZNH9KJNYB?:display_count=n&:origin=viz_share_link
+
+## LinkedIn
+* www.linkedin.com/in/priyanka-s-kumar-1580b0218
