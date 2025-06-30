@@ -1,0 +1,22 @@
+## Superstore Sales Analysis - Tableau Project
+### Project Overview
+* Objective: To uncover key insights into customer purchasing patterns, regional sales performance, and product profitability within the Superstore dataset.
+* Key Findings: Discovered actionable insights, such as the consistent low-profit margins for the "Tables" sub-category despite high sales volume, primarily due to high shipping costs.
+* Tools Used: Tableau Public for data visualization, analysis and publishing.
+
+### Features
+* Interactive Dashboards: Explore sales performance across different regions, categories, and segments.
+* Custom Slicer Buttons: Implemented parameter-based slicer buttons using Tableau Actions for enhanced user interaction and dynamic filtering.
+* Highlighter Filters:Utilized highlighter filters to easily compare and focus on specific data points within the visualizations.
+* Profitability Analysis: Detailed views on product and category profitability to identify areas for strategic focus.
+
+### How to Use
+1.  **Clone this repository:** `git clone [repository-link]`
+2.  **Open the Tableau Workbook:** Navigate to the `[YourWorkbookName].twbx` file and open it with Tableau Desktop.
+3.  **Explore the Dashboards:** Interact with the filters, slicer buttons, and highlighted elements to explore the data.
+
+### Data Source
+The analysis is based on the publicly available Superstore Dataset.
+
+### Tableau Public Link
+*  https://public.tableau.com/views/SuperstoreAnalysis_17512905229200/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
