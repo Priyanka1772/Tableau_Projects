@@ -21,7 +21,7 @@
 The analysis is based on the publicly available Superstore Dataset.
 
 ### Tableau Public Link
-*  https://public.tableau.com/views/SuperstoreAnalysis_17512905229200/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+*  https://public.tableau.com/views/SuperstoreAnalysis1_17512917935890/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## LinkedIn
 * --Post link--
