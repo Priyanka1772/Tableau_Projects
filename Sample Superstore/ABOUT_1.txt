@@ -12,7 +12,10 @@
 ## Technologies Used
 * Tableau Public: For data visualization, analysis and publishing.
 
-3.  **Explore the Dashboards:** Interact with the filters, slicer buttons, and highlighted elements to explore the data.
+## How To Access 
+* The Tableau workbook .twbx file for this project has been uploaded to this repository.
+* Download the file and open it with Tableau PublicPower BI Desktop to explore the interactive dashboard.
+* Explore the Dashboards, interact with the filters, slicer buttons, and highlighted elements to explore the data using the public link.
 
 ### Data Source
 The analysis is based on the publicly available Superstore Dataset.
@@ -20,6 +23,8 @@ The analysis is based on the publicly available Superstore Dataset.
 ### Tableau Public Link
 *  https://public.tableau.com/views/SuperstoreAnalysis_17512905229200/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+## LinkedIn
+* --Post link--
 
 
 
