@@ -22,7 +22,12 @@
 * Data Storytelling
 * Data Analysis & Interpretation
 
-## How To Acces
+## How To Access 
+* The Tableau workbook .twbx file for this project has been uploaded to this repository.
+* Download the file and open it with Tableau PublicPower BI Desktop to explore the interactive dashboard.
+* Explore the Dashboards, interact with the filters, slicer buttons, and highlighted elements to explore the data using the public link.
+
+## Tableau Public Link
 * https://public.tableau.com/shared/ZNH9KJNYB?:display_count=n&:origin=viz_share_link
 
 ## LinkedIn
