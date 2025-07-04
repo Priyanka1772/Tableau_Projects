@@ -1,27 +1,30 @@
-## Superstore Sales Analysis - Tableau Project
-### Project Overview
+## Superstore Sales Analysis (1) - Tableau Project
+## Project Summary
 * To uncover key insights into customer purchasing patterns, regional sales performance, and product profitability within the Superstore dataset.
 * Discovered actionable insights, such as the consistent low-profit margins for the "Tables" sub-category despite high sales volume, primarily due to high shipping costs.
 
-### Features
-* Interactive Dashboards: Explore sales performance across different regions, categories, and segments.
-* Custom Slicer Buttons: Implemented parameter-based slicer buttons using Tableau Actions for enhanced user interaction and dynamic filtering.
-* Highlighter Filters: Utilized highlighter filters to easily compare and focus on specific data points within the visualizations.
-* Profitability Analysis: Detailed views on product and category profitability to identify areas for strategic focus.
+## Features:
+### Comprehensive Performance Overview
+*	Provides an at-a-glance summary of key sales metrics including Total Sales,  Total Profit, and Quantity Sold, often displayed as clear KPI (Key Performance Indicator) cards.
+*	Visualizes Sales and Profit trends over time (e.g., by year, quarter, month) to identify seasonality and growth patterns.
+*	Explore sales performance across different regions, categories, and segments.
+### Interactive Geographical Analysis:
+*	Sales Map: Displays geographical sales distribution and profitability across different States and Regions, allowing for quick identification of high-performing and underperforming areas.
+*	Users can drill down from Region to State to analyze localized performance.
+*	Custom Slicer Buttons: Implemented parameter-based slicer buttons using Tableau Actions for enhanced user interaction and dynamic filtering.
+*	Highlighter Filters: Utilized highlighter filters to easily compare and focus on specific data points within the visualizations.
 
 ## Technologies Used
 * Tableau Public: For data visualization, analysis and publishing.
 
 ## How To Access 
-* The Tableau workbook .twbx file for this project has been uploaded to this repository.
-* Download the file and open it with Tableau PublicPower BI Desktop to explore the interactive dashboard.
-* Explore the Dashboards, interact with the filters, slicer buttons, and highlighted elements to explore the data using the public link.
+* The Tableau workbook (.twbx) file for this project has been uploaded to this repository.
+* Download the file and open it with Tableau Public Desktop to explore the interactive dashboard.
+* Alternatively, explore the live dashboard directly here: https://public.tableau.com/views/SuperstoreAnalysis1_17512917935890/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+* Interact with the filters, slicer buttons, and highlighted elements to explore the data.
 
-### Data Source
+## Data Source
 The analysis is based on the publicly available Superstore Dataset.
 
-### Tableau Public Link
-*  https://public.tableau.com/views/SuperstoreAnalysis1_17512917935890/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-## LinkedIn
+## Author
 * https://www.linkedin.com/posts/priyanka-s-kumar-1580b0218_salesanalysis-dataanalytics-superstore-activity-7346412632075096065-WFHs?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbUu9QBDDintXLs77AhFaxcSEDVtyLzjvg
