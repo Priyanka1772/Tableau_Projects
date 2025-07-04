@@ -1,0 +1,29 @@
+## Superstore Sales Analysis (4) - Tableau Project
+## Project Summary
+* To uncover key insights into customer purchasing patterns, regional sales performance, and product profitability within the Superstore dataset.
+* To discover underlying trends and presence of outliers  to identify unusual transactions, potential data errors. 
+
+## Features:
+### Comprehensive Performance Overview:
+* Visualizes Sales and Profit trends over time (e.g., by year, quarter, month based on Order Date) to identify seasonality and growth patterns.
+* Discount Impact Analysis: Visualizes the distribution and impact of discounts across records, helping to understand their effectiveness on sales and profitability." This connects it more directly to effectiveness and outcome.
+### Detailed Product & Category Insights:
+* Profitability Analysis: Offers granular views into Product Category performance, clearly highlighting which products are most profitable and which might be incurring losses (e.g., your "Tables" insight).
+* Analyzes Product Container types against Shipping Cost to identify unusual shipping expenses or outliers using a box plot, optimizing logistics." (Or similar, depending on the insight derived).
+### Dynamic Filtering & Interactivity:
+* Date Range Filters: Allows users to select specific time periods (e.g., year, quarter, or custom date range) to analyze trends within desired windows.
+
+## Technologies Used
+* Tableau Public: For data visualization, analysis and publishing.
+
+## How To Access 
+* The Tableau workbook (.twbx) file for this project has been uploaded to this repository.
+* Download the file and open it with Tableau Public Desktop to explore the interactive dashboard.
+* Alternatively, explore the live dashboard directly here: https://public.tableau.com/views/SuperstoreAnalysis4/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+* Interact with the filters, slicer buttons, and highlighted elements to explore the data.
+
+## Data Source
+The analysis is based on the publicly available Superstore Dataset.
+
+## Author
+* www.linkedin.com/in/priyanka-s-kumar-1580b0218
