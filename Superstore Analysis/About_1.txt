@@ -5,14 +5,14 @@
 
 ## Features:
 ### Comprehensive Performance Overview
-*	Provides an at-a-glance summary of key sales metrics including Total Sales,  Total Profit, and Quantity Sold, often displayed as clear KPI (Key Performance Indicator) cards.
-*	Visualizes Sales and Profit trends over time (e.g., by year, quarter, month) to identify seasonality and growth patterns.
-*	Explore sales performance across different regions, categories, and segments.
+* Provides an at-a-glance summary of key sales metrics including Total Sales,  Total Profit, and Quantity Sold, often displayed as clear KPI (Key Performance Indicator) cards.
+* Visualizes Sales and Profit trends over time (e.g., by year, quarter, month) to identify seasonality and growth patterns.
+* Explore sales performance across different regions, categories, and segments.
 ### Interactive Geographical Analysis:
-*	Sales Map: Displays geographical sales distribution and profitability across different States and Regions, allowing for quick identification of high-performing and underperforming areas.
-*	Users can drill down from Region to State to analyze localized performance.
-*	Custom Slicer Buttons: Implemented parameter-based slicer buttons using Tableau Actions for enhanced user interaction and dynamic filtering.
-*	Highlighter Filters: Utilized highlighter filters to easily compare and focus on specific data points within the visualizations.
+* Sales Map: Displays geographical sales distribution and profitability across different States and Regions, allowing for quick identification of high-performing and underperforming areas.
+* Users can drill down from Region to State to analyze localized performance.
+* Custom Slicer Buttons: Implemented parameter-based slicer buttons using Tableau Actions for enhanced user interaction and dynamic filtering.
+* Highlighter Filters: Utilized highlighter filters to easily compare and focus on specific data points within the visualizations.
 
 ## Technologies Used
 * Tableau Public: For data visualization, analysis and publishing.
