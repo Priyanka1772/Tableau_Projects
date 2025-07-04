@@ -24,4 +24,4 @@ The analysis is based on the publicly available Superstore Dataset.
 *  https://public.tableau.com/views/SuperstoreAnalysis1_17512917935890/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## LinkedIn
-* --Post link--
+* https://www.linkedin.com/posts/priyanka-s-kumar-1580b0218_salesanalysis-dataanalytics-superstore-activity-7346412632075096065-WFHs?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbUu9QBDDintXLs77AhFaxcSEDVtyLzjvg
