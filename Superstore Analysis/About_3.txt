@@ -1,0 +1,28 @@
+## Superstore Sales Analysis (3) - Tableau Project
+## Project Summary
+* To uncover key insights into customer purchasing patterns, regional sales performance, and sales trends within the Superstore dataset.
+* Discovered actionable insights, such as identifying top-selling product categories and regions, and understanding sales distribution.
+
+## Features:
+### Comprehensive Performance Overview
+* Visualizes Sales performance across different categories, product sub-categories and segments.
+### Detailed Product & Category Insights:
+* Profitability Analysis: Offers granular views into Product Category and Sub-Category performance, clearly highlighting which products are most profitable and which might be incurring losses (e.g., your "Tables" insight).
+* Visualizes Sales by Product Category and Sub-Category with comparisons of profit margins.
+### Customer & Segment Analysis:
+* Breaks down sales and profit performance by Customer Segment (Consumer, Corporate, Home Office) to understand segment-specific behaviors and contributions.
+* Shipping Mode Efficiency: Analysis of sales and profit across different shipping modes (Standard Class, Second Class, First Class, Same Day) to identify cost efficiencies or areas for improvement.
+
+## Technologies Used
+* Tableau Public: For data visualization, analysis and publishing.
+
+## How To Access 
+* The Tableau workbook (.twbx) file for this project has been uploaded to this repository.
+* Download the file and open it with Tableau Public Desktop to explore the interactive dashboard.
+* Alternatively, explore the live dashboard directly here: https://public.tableau.com/views/SuperstoreAnalysis3_17515239404390/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## Data Source
+The analysis is based on the publicly available Superstore Dataset.
+
+## Author
+* www.linkedin.com/in/priyanka-s-kumar-1580b0218
