@@ -1,1 +1,43 @@
+## Deloitte Forage - Data Analysis
+## Project Overview
+* Recently participated in Deloitte's job simulation on the Forage platform, and it was incredibly useful to understand what it might be like to be part of the team at Deloitte.
+* Created data visuals along with a home page, practiced using Tableau to represent information, and built my presentation skills in a real-world context.
+* Completion of this program confirmed that I really enjoy working on technology problems for clients and I'm excited to apply these skills on a team at a company like Deloitte.
+ 
+## Features
+* Interactive Revenue Dashboard: Explore key revenue trends and patterns over time and by various dimensions.
+* Client-Focused Visuals: Designed to present complex data clearly for strategic business decisions.
 
+## Technologies Used
+* Tableau Public Desktop: For data visualization, report views, and publishing of the dashboard.
+* MS Excel: To classify data and draw business conclusions
+
+## Key Skills Demonstrated
+* Data Analysis
+* Data Modeling
+* Spreadsheets
+* Tableau
+* Analytics & Insights
+* Dashboard
+* Data Cleanup
+* Data Interpretation
+* Data Visualisation
+* Effective Communication
+* Visual Basics
+* Visualisation
+
+## How To Access 
+* The Tableau workbook .twbx file for this project has been uploaded to this repository.
+* Download the file and open it with Tableau Public Desktop to explore the interactive dashboard.
+* Explore the Dashboards and the data using the public link.
+
+## Tableau Public Link
+* https://public.tableau.com/views/MakoraIndustriesDeloitte/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## Certificate
+* You can find the certificate under my 'Certifications' repository or refer my LinkedIn profile.
+
+## Author
+*  www.linkedin.com/in/priyanka-s-kumar-1580b0218
+
+## Check out the simulation here: https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy
