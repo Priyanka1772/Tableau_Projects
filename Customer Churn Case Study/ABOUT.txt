@@ -1,0 +1,31 @@
+## Customer Churn Case Study - Tableau Project
+## Project Summary
+* This Tableau project presents a comprehensive Customer Churn Case Study, analyzing key factors contributing to customer attrition.
+* It leverages interactive dashboards, diverse visualizations, and actionable insights to help businesses understand and mitigate churn.
+
+## Features
+* Two Interactive Dashboards:
+  - Churn Overview Dashboard: Provides a high-level view of churn rates, affected customer segments, and overall churn trends.
+  - Churn Drivers Analysis Dashboard: Dives deeper into specific factors influencing churn, such as service usage, tenure, contract type, and demographics.
+* Dynamic Parameter Controls: Implemented multiple parameters allowing users to dynamically adjust variables (e.g., churn threshold, demographic segments) to explore different scenarios and sensitivities in the data.
+* Flexible Filtering: Utilized a variety of filters to enable granular data exploration by customer attributes, service details, and timeframes.
+* Diverse Visualization Palette: Showcases various chart types to effectively communicate insights, including: Bar Charts, Histograms, Treemaps etc.
+* Actionable Recommendations: Based on the analysis, the dashboards provide clear, data-driven recommendations aimed at reducing churn and improving customer retention strategies.
+
+## Technologies Used
+* Tableau Desktop: For data preparation, analysis, and interactive dashboard design.
+* Tableau Public: For publishing and sharing the interactive dashboards online.
+
+## How To Access
+* The Tableau workbook (.twbx) file for this project has been uploaded to this repository.
+* Download the file and open it with Tableau Desktop (or Tableau Public Desktop) to explore the interactive case study locally.
+* Alternatively, explore the live dashboards directly here:
+  - Dashboard 1: https://public.tableau.com/views/CustomerChurnAnalysis1_17531018038890/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+  - Dashboard 2: https://public.tableau.com/views/CustomerChurnAnalysis2_17531019082940/ImpactofPaymentModeContractTypeonChurn?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link 
+* Interact with the filters, slicer buttons, and highlighted elements to explore the data.
+
+## Data Source
+* The analysis is based on a [mention your specific data source, e.g., a telecom customer churn dataset, a fictional customer dataset, or provide source if publicly available].
+
+## LinkedIn;
+* --To be added--
