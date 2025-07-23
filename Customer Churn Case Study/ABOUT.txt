@@ -25,7 +25,7 @@
 * Interact with the filters, slicer buttons, and highlighted elements to explore the data.
 
 ## Data Source
-* The analysis is based on a [mention your specific data source, e.g., a telecom customer churn dataset, a fictional customer dataset, or provide source if publicly available].
+* The analysis is based on a telecom customer churn dataset, publicly available.
 
 ## LinkedIn;
 * --To be added--
