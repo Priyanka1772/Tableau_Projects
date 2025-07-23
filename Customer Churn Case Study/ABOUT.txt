@@ -28,4 +28,4 @@
 * The analysis is based on a telecom customer churn dataset, publicly available.
 
 ## LinkedIn;
-* --To be added--
+* https://www.linkedin.com/posts/priyanka-s-kumar-1580b0218_tableau-customerchurn-dataanalytics-activity-7353298002427498496-lFhr?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbUu9QBDDintXLs77AhFaxcSEDVtyLzjvg
